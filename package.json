@@ -1,0 +1,18 @@
+{
+  "name": "platdujour-utils",
+  "version": "0.0.1",
+  "description": "platdujour utilities",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Antoine BERNIER"
+  },
+  "license": "BSD",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abernier/platdujour-utils.git"
+  },
+  "readme": "ERROR: No README data found!"
+}
